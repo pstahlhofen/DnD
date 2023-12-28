@@ -1,0 +1,87 @@
+Attributswerte
+	IN 18
+	GE 15
+	WE 14
+	KO 12
+	CH 11
+	ST 10
+
+erlernte Fertigkeiten
+	Magiewissen
+	Geschichte
+	Einschätzen
+	Religion
+
+Talente
+	Implement Expertise
+	Fertigkeitsfokus (Magiewissen)
+
+Ausrüstung
+	Robe
+	magischer Feuerstecken
+		Kraft täglich, wenn Treffer mit Feuer
+		alle betroffenen Felder gehen in Flammen auf
+		5 Feuerschaden für betroffene Kreaturen
+		Gegenstände fangen Feuer
+		5 Feuerschaden für alle, die die Felder vor Ende meines nächsten Zugs betreten
+
+Verteidigungswerte
+	RK 15
+	ZÄH 12
+	REF 15
+	WIL 16
+
+TP: 30
+
+Fertigkeiten
+	Akrobatik 3
+	Athletik 1
+	Ausdauer 2
+	Bluffen 1
+	Diebeskunst 3
+	Diplomatie 1
+	Einschätzen 8
+	Einschüchtern 1
+	Gassenwissen 1
+	Geschichte 12
+	Gewölbekunde 3
+	Heilkunde 3
+	Heimlichkeit 3
+	Magiewissen 15
+	Naturkunde 3
+	Religion 10
+	Wahrnehmung 3
+
+Angriffsbonus: +7 gegen REF
+
+Kräfte
+	magisches Geschoss
+		Fern 20; IN gegen REF
+		Treffer: 2W4+IN Energieschaden (Standardfernkampfangriff)
+	versengende Explosion
+		Fernausbreitung 1 in 10; IN gegen REF
+		Treffer: 1W6+IN Feuerschaden
+	Kältebolzen
+		Fern 10; IN gegen ZÄH
+		Treffer: 2W8+IN Kälteschaden und das Ziel ist bis zum Ende des nächsten Zugs des Magiers benommen
+	Flammenkugel
+		Fern 10
+		Effekt: Flammenkugel wird erschaffen und greift an
+		jede Kreatur, die ihren Zug angrenzend zur FK beginnt, erleidet 1W4+IN Feuerschaden
+		Aufrechterhaltung: beiläufig
+		Bewegungsaktion zum Bewegen
+		Standardaktion zum Angreifen
+		IN gegen REF
+		Treffer: 2W6+IN Feuerschaden
+	Schild
+		augenblickliche Unterbrechungsaktion
+		Auslöser: Den Charakter trifft ein Angriff
+		Effekt: +4 auf RK und REF bis zum Ende meines nächsten Zuges
+	Feuerschleier
+		Nahausbreitung 3 (nur Feinde); IN gegen ZÄH
+		Treffer: 1W8+IN Feuerschaden und fortwährender Feuerschaden 5
+
+Rituale
+	Tensers schwebende Scheibe
+	Leiche konservieren
+	magische Reparatur
