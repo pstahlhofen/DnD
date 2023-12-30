@@ -8,4 +8,4 @@ G = nx.from_edgelist(edgelist).to_undirected()
 pos_f = lambda n: ((n-1)%5 , 5-((n-1)//5))
 pos = {n: pos_f(n) for n in G.nodes}
 nx.draw_networkx(G, pos)
-plt.show()
+plt.savefig('library_labyrinth.png')
